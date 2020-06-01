@@ -6,11 +6,11 @@ There are 3 simple JS projects I've made in school. I think that it is great to 
 
 _**Note:** Sometimes the teachers required to use specified proggraming techniques or something like that as a part of task_
 
-### [Color picker](https://sjaskula.pl/en/projects/colorPicker)
+### [Color picker](https://szymonjaskula.pl/projects/js_css/colorPicker)
 
 Just a simple color picker with RGB, Hex and Percent values
 
-### [Lotto](https://sjaskula.pl/en/projects/lotto)
+### [Lotto](https://szymonjaskula.pl/projects/js_css/lotto)
 
 Simple lottery game. Put numbers (1-49) and check if you win. If your numbers will match then you win:
 + 3 - 24$
@@ -20,7 +20,7 @@ Simple lottery game. Put numbers (1-49) and check if you win. If your numbers wi
 
 There is probability that someone else will win, and then the cumulation breaks and is set to 2 000 000$
 
-### [One-armed bandit](https://sjaskula.pl/en/projects/one-armedBandtit)
+### [One-armed bandit](https://szymonjaskula.pl/projects/js_css/one-armedBandtit)
 
 Enter the rate and check if you win. You win if: 
 + All colours will match
