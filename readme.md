@@ -20,7 +20,7 @@ Simple lottery game. Put numbers (1-49) and check if you win. If your numbers wi
 
 There is probability that someone else will win, and then the cumulation breaks and is set to 2 000 000$
 
-### [One-armed bandit](https://szymonjaskula.pl/projects/js_css/one-armedBandtit)
+### [One-armed bandit](https://szymonjaskula.pl/projects/js_css/oneArmedBandit)
 
 Enter the rate and check if you win. You win if: 
 + All colours will match
